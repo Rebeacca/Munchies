@@ -1,0 +1,24 @@
+{
+  "development": {
+  "username": "root",
+  "password": null,
+  "database": "munchiesdb",
+  "host": "localhost",
+  "dialect": "mysql"
+  },
+  "test": {
+  "username": "root",
+  "password": null,
+  "database": "testdb",
+  "host": "localhost",
+  "dialect": "mysql",
+  "logging": false
+  },
+  "production": {
+  "username": "uezqw5dt2ksh1ur4",
+  "password": "a2h1304jdd4b2lis",
+  "database": "t14rwoidxjmzavwg",
+  "host": "s54ham9zz83czkff.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+  "dialect": "mysql"
+  }
+  }
